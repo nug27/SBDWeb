@@ -1,8 +1,8 @@
 import React from 'react';
 import logo from './assets/Logo.svg';
 import OS from './assets/OSLogo.svg';
-import SBD from './assets/SBDlogo.svg';
-import DMJ from './assets/DMJlogo.svg';
+import SBD from './assets/SBDLogo.svg';
+import DMJ from './assets/DMJLogo.svg';
 import { useState } from 'react';
 
 export default function App() {
