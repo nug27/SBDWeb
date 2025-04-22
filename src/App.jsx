@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './assets/Logo.svg';
-import OS from './assets/OSlogo.svg';
+import OS from './assets/OSLogo.svg';
 import SBD from './assets/SBDlogo.svg';
 import DMJ from './assets/DMJlogo.svg';
 import { useState } from 'react';
